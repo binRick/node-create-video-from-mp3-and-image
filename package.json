@@ -1,0 +1,19 @@
+{
+  "name": "create-video-from-mp3-and-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/binRick/node-create-video-from-mp3-and-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/node-create-video-from-mp3-and-image/issues"
+  },
+  "homepage": "https://github.com/binRick/node-create-video-from-mp3-and-image#readme"
+}
